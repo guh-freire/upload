@@ -1,12 +1,12 @@
 <?php
 /*
-	@utor Tree Comunicação
-	Atualizado - 28/04/2010
+	@utor Gustavo Freire
+	Atualizado - 012/2017
 	
 	Esse freamwork faz UPLOAD de arquivos e ao mesmo tempo o compacta em formato ZIP.
-	Lembrar que: Descomentar a linha .zip no PHP.INI senão o ZIP não funcionará.
+	Lembrar que: Descomentar a linha .zip no PHP.INI senÃ£o o ZIP nÃ£o funcionarÃ¡.
 	
-	Para usar basta apenas atribuir o nome do arquivo, tamanho e nome temporário.
+	Para usar basta apenas atribuir o nome do arquivo, tamanho e nome temporÃ¡rio.
 	Exemplo:
 	
 	$nomeArquivo    = $_FILES['nome_do_campo_do_arquivo_no_seu_formulario']['name'];
@@ -19,16 +19,16 @@
 
 class Upload{
 
-	//Diretorio do arquivo onde será feito o Upload
+	//Diretorio do arquivo onde serÃ¡ feito o Upload
 	public $diretorio = "docs/";					
 	
 	//1 mega = 1000000, 2 mega = 2000000 [Enviando 1 Mega]			
 	public $tamanho   = 1000000;
 	
-	//Extencao que nao é permitida no programa          						
+	//Extencao que nao Ã© permitida no programa          						
 	public $extencao  = array('a','txt','xls','sf','pdf');	
 	
-	//Separação do Arquivo
+	//SeparaÃ§Ã£o do Arquivo
 	public $separador = '-';
 	
 
