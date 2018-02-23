@@ -3,6 +3,12 @@
 
 Programa simples em PHP que faz upload de Vários Arquivos.
 Só copiar e colar a pasta toda em seu servidor PHP.
+Alterar diretório como desejar em;
+upload/Upload/config/MultiploUpLoadTree.php
+
+//** <?php **//
+//** class MultiploUpload{ **//
+	//** public $diretorio        = "docs/";" **//
 
 Att,
 Gustavo Freire
