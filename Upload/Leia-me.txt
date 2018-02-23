@@ -1,10 +1,8 @@
-//** @utor hkanata@gmail.com     **//
-//** http://harukanata.no-ip.org **//
+//** @utor gustavofrere.ti@gmail.com     **//
+//** http://infocosolucao.esy.es **//
 
-Programa simples em PHP que faz upload de Vários Arquivos.
-Só copiar e colar a pasta toda em seu servidor PHP.
-
-:)
+Programa simples em PHP que faz upload de VÃ¡rios Arquivos.
+SÃ³ copiar e colar a pasta toda em seu servidor PHP.
 
 Att,
-Touch
+Gustavo Freire
